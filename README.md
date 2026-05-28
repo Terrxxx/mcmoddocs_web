@@ -19,8 +19,8 @@
     [教程](/破译行动/door/教程.html)
     [常见问题](/破译行动/door/常见问题.html)
   + **[指令](/破译行动/main/指令.html)**
-  + **[问题反馈](https://docs.qq.com/form/page/DYUFKSmtIY1FCSHpD#/fill)**
-  + **[新内容反馈](https://docs.qq.com/form/page/DYU5weGZPWmZXcURu#/fill)**
+  + **[问题反馈](https://doc.yrxs.net/docs/1/fill)**
+  + **[新内容反馈](https://doc.yrxs.net/docs/2/fill)**
 
 - [CS系列](/CS/)
   + **武器箱**  
@@ -33,6 +33,8 @@
     [特性](/CS/pass/特性.html)
     [教程](/CS/pass/教程.html)
     [常见问题](/CS/pass/常见问题.html)
+  <!-- + **[指令](/破译行动/main/指令.html)** -->
+  + **[问题反馈](https://doc.yrxs.net/docs/3/fill)**
   <!-- + **物品终端机**  
     [更新日志](/CS/terminal/更新日志.html)
     [特性](/CS/terminal/特性.html)
