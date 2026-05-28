@@ -1,6 +1,6 @@
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defaultTheme } from '@vuepress/theme-default'
-import { defineUserConfig } from 'vuepress'
+// import { viteBundler } from '@vuepress/bundler-vite'
+// import { defaultTheme } from '@vuepress/theme-default'
+// import { defineUserConfig } from 'vuepress'
 
 module.exports = {
   themeConfig: {
@@ -61,37 +61,61 @@ module.exports = {
                             },
                             {
                                 title: "问题反馈",
-                                path: 'https://docs.qq.com/form/page/DYUFKSmtIY1FCSHpD#/fill'
+                                path: 'https://doc.yrxs.net/docs/1/fill'
                             },
                             {
                                 title: "新内容反馈",
-                                path: 'https://docs.qq.com/form/page/DYU5weGZPWmZXcURu#/fill'
+                                path: 'https://doc.yrxs.net/docs/2/fill'
                             }
                         ]
                      },
-                    { title: "方块饱饱", collapsable: true, path: '/方块饱饱/',
+                    { title: "CS系列", collapsable: true, path: '/CS/',
                         children: [
                             {
-                                title: "主包",
+                                title: "武器箱",
                                 collapsable: true,
                                 children: [
-                                    { title: "更新日志", path: '/方块饱饱/main/更新日志' },
-                                    { title: "特性", path: '/方块饱饱/main/特性' },
-                                    { title: "教程", path: '/方块饱饱/main/教程' },
-                                    { title: "常见问题", path: '/方块饱饱/main/常见问题' },
+                                    { title: "更新日志", path: '/CS/knife/更新日志' },
+                                    { title: "特性", path: '/CS/knife/特性' },
+                                    { title: "教程", path: '/CS/knife/教程' },
+                                    { title: "常见问题", path: '/CS/knife/常见问题' },
                                 ]
                             },
                             {
-                                title: "地图",
+                                title: "物品库通行证",
                                 collapsable: true,
                                 children: [
-                                    { title: "更新日志", path: '/方块饱饱/map/更新日志' },
-                                    { title: "教程", path: '/方块饱饱/map/教程' },
-                                    { title: "常见问题", path: '/方块饱饱/map/常见问题' },
+                                    { title: "更新日志", path: '/CS/pass/更新日志' },
+                                    { title: "特性", path: '/CS/pass/特性' },
+                                    { title: "教程", path: '/CS/pass/教程' },
+                                    { title: "常见问题", path: '/CS/pass/常见问题' },
                                 ]
                             }
                         ]
                      },
+                    // { title: "方块饱饱", collapsable: true, path: '/方块饱饱/',
+                    //     children: [
+                    //         {
+                    //             title: "主包",
+                    //             collapsable: true,
+                    //             children: [
+                    //                 { title: "更新日志", path: '/方块饱饱/main/更新日志' },
+                    //                 { title: "特性", path: '/方块饱饱/main/特性' },
+                    //                 { title: "教程", path: '/方块饱饱/main/教程' },
+                    //                 { title: "常见问题", path: '/方块饱饱/main/常见问题' },
+                    //             ]
+                    //         },
+                    //         {
+                    //             title: "地图",
+                    //             collapsable: true,
+                    //             children: [
+                    //                 { title: "更新日志", path: '/方块饱饱/map/更新日志' },
+                    //                 { title: "教程", path: '/方块饱饱/map/教程' },
+                    //                 { title: "常见问题", path: '/方块饱饱/map/常见问题' },
+                    //             ]
+                    //         }
+                    //     ]
+                    //  },
                     { title: "装备强化", collapsable: true}
                 ]
             },
@@ -127,11 +151,11 @@ module.exports = {
                     },
                     {
                         title: "问题反馈",
-                        path: 'https://docs.qq.com/form/page/DYXBHeW5PSFFWbFZN#/fill'
+                        path: 'https://doc.yrxs.net/docs/4/fill'
                     },
                     {
                         title: "新内容反馈",
-                        path: 'https://docs.qq.com/form/page/DYXF2VWd1U21HdGRG#/fill'
+                        path: 'https://doc.yrxs.net/docs/5/fill'
                     }
                 ]
             }

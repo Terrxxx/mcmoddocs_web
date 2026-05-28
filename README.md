@@ -22,7 +22,24 @@
   + **[问题反馈](https://docs.qq.com/form/page/DYUFKSmtIY1FCSHpD#/fill)**
   + **[新内容反馈](https://docs.qq.com/form/page/DYU5weGZPWmZXcURu#/fill)**
 
-- [方块饱饱](/方块饱饱/)
+- [CS系列](/CS/)
+  + **武器箱**  
+    [更新日志](/CS/knife/更新日志.html)
+    [特性](/CS/knife/特性.html)
+    [教程](/CS/knife/教程.html)
+    [常见问题](/CS/knife/常见问题.html)
+  + **物品库通行证**  
+    [更新日志](/CS/pass/更新日志.html)
+    [特性](/CS/pass/特性.html)
+    [教程](/CS/pass/教程.html)
+    [常见问题](/CS/pass/常见问题.html)
+  <!-- + **物品终端机**  
+    [更新日志](/CS/terminal/更新日志.html)
+    [特性](/CS/terminal/特性.html)
+    [教程](/CS/terminal/教程.html)
+    [常见问题](/CS/terminal/常见问题.html) -->
+  
+<!-- - [方块饱饱](/方块饱饱/)
   + **主包**  
     [更新日志](/方块饱饱/main/更新日志.html)
     [特性](/方块饱饱/main/特性.html)
@@ -33,7 +50,7 @@
     [教程](/方块饱饱/main/教程.html)
     [常见问题](/方块饱饱/main/常见问题.html)
   + **DLC**  
-    暂无
+    暂无 -->
 
 ## 非系列模组
 - 更多投掷物
@@ -41,8 +58,8 @@
 - 自定义功能盒子
 - 每日委托
 - 30倍掉落生存
-- **[问题反馈](https://docs.qq.com/form/page/DYXBHeW5PSFFWbFZN#/fill)** 
-- **[新内容反馈](https://docs.qq.com/form/page/DYXF2VWd1U21HdGRG#/fill)**
+- **[问题反馈](https://doc.yrxs.net/docs/4/fill)** 
+- **[新内容反馈](https://doc.yrxs.net/docs/5/fill)**
 
 ## 视频
 [破译行动合集](https://space.bilibili.com/158591843/lists/5570758)  
@@ -63,7 +80,9 @@
   - [在 MC 出大红！](https://www.bilibili.com/video/BV1gzEcznE4U)  
       <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114501479301312&bvid=BV1gzEcznE4U&cid=29977152307&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
 
-CS武器箱合集  
+CS系列合集  
+  - [在 MC 开200个星星会出什么](https://www.bilibili.com/video/BV1ssDZYzEcE)  
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116645959828999&bvid=BV1vKGm6oExQ&cid=38650318150&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
   - [[MC:GO] 200个箱子能出几把刀](https://www.bilibili.com/video/BV1ssDZYzEcE)  
     <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113446544738951&bvid=BV1ssDZYzEcE&cid=26668697419&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [在MC开反恐精英武器箱](https://www.bilibili.com/video/BV122421A774)  
