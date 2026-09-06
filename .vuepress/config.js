@@ -10,6 +10,7 @@ module.exports = {
     sidebar: {
         '/': [
             { title: "首页", path: '/' },
+            { title: "反馈文档", path: 'https://doc.yrxs.net' },
             {
                 title: '系列模组',
                 collapsable: true,
@@ -116,6 +117,10 @@ module.exports = {
                     //         }
                     //     ]
                     //  },
+                    // { title: "特殊生存系列", collapsable: true, path: '//',
+                    //     children: [
+                    //     ]
+                    //  },
                     { title: "装备强化", collapsable: true}
                 ]
             },
@@ -163,6 +168,7 @@ module.exports = {
     },
     nav: [
         { text: "首页", link: "/" },
+        { text: "反馈文档", link: "https://doc.yrxs.net" },
         { text: "开发人员", items: [
             { text: 'Terrxx', link: "https://space.bilibili.com/158591843" }
         ] },

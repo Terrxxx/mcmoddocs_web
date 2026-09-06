@@ -54,6 +54,8 @@
   + **DLC**  
     暂无 -->
 
+<!-- - [特殊生存系列](//) -->
+
 ## 非系列模组
 - 更多投掷物
 - 更多投掷物2
@@ -83,8 +85,8 @@
       <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114501479301312&bvid=BV1gzEcznE4U&cid=29977152307&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
 
 CS系列合集  
-  - [在 MC 开200个星星会出什么](https://www.bilibili.com/video/BV1ssDZYzEcE)  
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116645959828999&bvid=BV1vKGm6oExQ&cid=38650318150&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  - [在 MC 开200个星星会出什么](https://www.bilibili.com/video/BV1vKGm6oExQ)  
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116645959828999&bvid=BV1vKGm6oExQ&cid=38650318150&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [[MC:GO] 200个箱子能出几把刀](https://www.bilibili.com/video/BV1ssDZYzEcE)  
     <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113446544738951&bvid=BV1ssDZYzEcE&cid=26668697419&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [在MC开反恐精英武器箱](https://www.bilibili.com/video/BV122421A774)  
