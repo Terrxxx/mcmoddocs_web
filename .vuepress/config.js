@@ -172,6 +172,7 @@ module.exports = {
     nav: [
         { text: "首页", link: "/" },
         { text: "反馈文档", link: "https://doc.yrxs.net" },
+        { text: "Github", link: "https://github.com/Terrxxx/mcmoddocs_web" },
         { text: "开发人员", items: [
             { text: 'Terrxx', link: "https://space.bilibili.com/158591843" }
         ] },
