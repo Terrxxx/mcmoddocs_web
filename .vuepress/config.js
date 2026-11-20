@@ -32,7 +32,6 @@ module.exports = {
                                 title: "交易行",
                                 collapsable: true,
                                 children: [
-                                                                        { title: "指令", path: '/破译行动/trade/指令' },
                                     { title: "更新日志", path: '/破译行动/trade/更新日志' },
                                     { title: "特性", path: '/破译行动/trade/特性' },
                                     { title: "教程", path: '/破译行动/trade/教程' },
@@ -43,10 +42,9 @@ module.exports = {
                                 title: "背包扩展",
                                 collapsable: true,
                                 children: [
-                                                                        { title: "教程", path: '/破译行动/backpack/教程' },
+                                    { title: "教程", path: '/破译行动/backpack/教程' },
                                     { title: "特性", path: '/破译行动/backpack/特性' },
                                     { title: "常见问题", path: '/破译行动/backpack/常见问题' },
-                                    { title: "指令", path: '/破译行动/backpack/指令' },
                                     { title: "更新日志", path: '/破译行动/backpack/更新日志' }
                                 ]
                             },
@@ -54,7 +52,6 @@ module.exports = {
                                 title: "钥匙门",
                                 collapsable: true,
                                 children: [
-                                                                        { title: "指令", path: '/破译行动/door/指令' },
                                     { title: "更新日志", path: '/破译行动/door/更新日志' },
                                     { title: "特性", path: '/破译行动/door/特性' },
                                     { title: "教程", path: '/破译行动/door/教程' },
