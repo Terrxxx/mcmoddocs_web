@@ -68,11 +68,11 @@
 ## 视频
 [破译行动合集](https://space.bilibili.com/158591843/lists/5570758)  
   - [破译行动4.0](https://www.bilibili.com/video/BV1LJsC61EA2)  
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115526969853391&bvid=BV1LJsC61EA2&cid=33899348010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117632846005788&bvid=BV1LJsC61EA2&cid=43692263310&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [破译行动3.2更新日志](https://www.bilibili.com/video/BV1r8DCBJEFV)  
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115526969853391&bvid=BV1r8DCBJEFV&cid=33899348010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116385476903598&bvid=BV1r8DCBJEFV&cid=37418893996&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [破译行动3.0](https://www.bilibili.com/video/BV13Y6qBoEGu)  
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115526969853391&bvid=BV13Y6qBoEGu&cid=33899348010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115983813510270&bvid=BV13Y6qBoEGu&cid=35710698096&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [破译行动：钥匙门](https://www.bilibili.com/video/BV1zhkvBTEAp)  
     <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115526969853391&bvid=BV1zhkvBTEAp&cid=33899348010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=300px></iframe>
   - [破译行动2.0 更新简单介绍](https://www.bilibili.com/video/BV11ynpzVEVm)  
