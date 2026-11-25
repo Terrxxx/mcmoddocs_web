@@ -13,11 +13,24 @@
     [常见问题](/破译行动/trade/常见问题.html)
   + **背包扩展**  
     [更新日志](/破译行动/backpack/更新日志.html)
+    [特性](/破译行动/backpack/特性.html)
+    [教程](/破译行动/backpack/教程.html)
+    [常见问题](/破译行动/backpack/常见问题.html)
   + **钥匙门**  
     [更新日志](/破译行动/door/更新日志.html)
     [特性](/破译行动/door/特性.html)
     [教程](/破译行动/door/教程.html)
     [常见问题](/破译行动/door/常见问题.html)
+  + **容器扩展**  
+    [更新日志](/破译行动/more/更新日志.html)
+    [特性](/破译行动/more/特性.html)
+    [教程](/破译行动/more/教程.html)
+    [常见问题](/破译行动/more/常见问题.html)
+  <!-- + **特勤处**  
+    [更新日志](/破译行动/service/更新日志.html)
+    [特性](/破译行动/service/特性.html)
+    [教程](/破译行动/service/教程.html)
+    [常见问题](/破译行动/service/常见问题.html) -->
   + **[指令](/破译行动/main/指令.html)**
   + **[问题反馈](https://doc.yrxs.net/docs/1/fill)**
   + **[新内容反馈](https://doc.yrxs.net/docs/2/fill)**

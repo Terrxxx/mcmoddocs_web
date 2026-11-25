@@ -59,6 +59,26 @@ module.exports = {
                                 ]
                             },
                             {
+                                title: "容器扩展",
+                                collapsable: true,
+                                children: [
+                                    { title: "教程", path: '/破译行动/more/教程' },
+                                    { title: "特性", path: '/破译行动/more/特性' },
+                                    { title: "常见问题", path: '/破译行动/more/常见问题' },
+                                    { title: "更新日志", path: '/破译行动/more/更新日志' }
+                                ]
+                            },
+                            // {
+                            //     title: "特勤处",
+                            //     collapsable: true,
+                            //     children: [
+                            //         { title: "教程", path: '/破译行动/service/教程' },
+                            //         { title: "特性", path: '/破译行动/service/特性' },
+                            //         { title: "常见问题", path: '/破译行动/service/常见问题' },
+                            //         { title: "更新日志", path: '/破译行动/service/更新日志' }
+                            //     ]
+                            // },
+                            {
                                 title: "指令",
                                 collapsable: true,
                                 path: '/破译行动/main/指令'

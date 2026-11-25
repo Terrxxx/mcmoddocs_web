@@ -29,6 +29,9 @@
 
 - ### 破译行动：背包扩展 (6359004)
   [更新日志](backpack/更新日志.html)
+  [特性](backpack/特性.html)
+  [教程](backpack/教程.html)
+  [常见问题](backpack/常见问题.html)
 
 - ### 破译行动：钥匙门 (3367313)
   [更新日志](door/更新日志.html)  
@@ -36,5 +39,14 @@
   [教程](door/教程.html)  
   [常见问题](door/常见问题.html)
 
-- ### 破译行动：特勤处 ()
-  待定...
+- ### 破译行动：容器扩展 ()
+  [更新日志](more/更新日志.html)
+  [特性](more/特性.html)
+  [教程](more/教程.html)
+  [常见问题](more/常见问题.html)
+
+<!-- - ### 破译行动：特勤处 ()
+  [更新日志](service/更新日志.html)
+  [特性](service/特性.html)
+  [教程](service/教程.html)
+  [常见问题](service/常见问题.html) -->
