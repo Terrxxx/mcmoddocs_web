@@ -25,7 +25,6 @@ module.exports = {
                                     { title: "特性", path: '/破译行动/main/特性' },
                                     { title: "教程", path: '/破译行动/main/教程' },
                                     { title: "常见问题", path: '/破译行动/main/常见问题' },
-                                    { title: "预设分享", path: '/破译行动/main/预设分享' },
                                 ]
                             },
                             {
@@ -78,6 +77,7 @@ module.exports = {
                             //         { title: "更新日志", path: '/破译行动/service/更新日志' }
                             //     ]
                             // },
+                            { title: "工具", path: '/破译行动/工具' },
                             {
                                 title: "指令",
                                 collapsable: true,
